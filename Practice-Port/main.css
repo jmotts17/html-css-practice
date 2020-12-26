@@ -33,6 +33,14 @@ body {
   color: #d55e2d;
 }
 
+.text-bold {
+  font-weight: bold;
+}
+
+.text-center {
+  text-align: center;
+}
+
 .section-container {
   padding: 2rem;
   margin: 3rem;
@@ -40,7 +48,6 @@ body {
 }
 
 .section-container,
-h1,
 ul,
 li {
   background-color: #a0b3c1;
@@ -55,4 +62,12 @@ li {
 
 #home-about li {
   margin-top: 1rem;
+}
+
+/* Project Section */
+.project-languages {
+  border: 2px solid #d55e2d;
+  padding: 5px;
+  border-radius: 5px;
+  margin-right: 15px;
 }
