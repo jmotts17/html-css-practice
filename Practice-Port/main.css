@@ -50,6 +50,7 @@ body {
   padding: 2rem;
   margin: 3rem;
   border: 2px solid black;
+  border-radius: 5px;
 }
 
 .section-container,
